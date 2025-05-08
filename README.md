@@ -23,9 +23,13 @@ PortScannerApp
   다음 파일이 루트에 위치해야 합니다
   
   GeoLite2-Country. mmdb
+  
   GeoLite2-ASN. mmdb
+  
   main. py
+  
   settings. json
+  
   blocked_ips. json (최초 실행 시 자동 생성)
 
 2. Python 환경
